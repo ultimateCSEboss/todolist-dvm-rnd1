@@ -9,7 +9,7 @@ function addTask() {
     
     else{
         let li = document.createElement("li");
-        li innerHTML = inputBox.value;
+        let innerHTML = inputBox.value;
         listContainer.appendChild(li);
         let span = documentcreateElement("span");
         span.innerHTML = "\u00d7";
@@ -28,7 +28,7 @@ listContainer.addEventListener("click", function(e)) {
         saveData();
 
     }
-    
+
     else if(e.target.tagName === "SPAN");
     e.target.parentElement.remove();
     saveData();
