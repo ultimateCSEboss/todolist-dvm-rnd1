@@ -15,6 +15,8 @@ I have tried to create the simplest possible webapp for this project.
 
 >Requesting additional features is also appreciated. Reach me out at chaitanyaplusplus@gmail.com or [LinkedIn](https://www.linkedin.com/in/chaitanya-prabuddha-bits94/)
 
+>Some features may take some time. I will try to make regular updates until I actually complete this project upto my desire.
+
 ## Personal Use:
 
 You are allowed to do whatever you like with this code. Run it locally or maybe deploy it for your friends?!
