@@ -36,7 +36,7 @@
     align-items: center;
     justify-content: space-between;
     background: #efeef0;
-    border-radius: 30px;
+    border-radius: 10px;
     padding-left: 20px;
     margin-bottom: 25px;
 
@@ -55,11 +55,11 @@ button{
     border: none;
     outline: none;
     padding: 16px 50px;
-    background: #ff5945;
+    background: #333942;
     color: #fff;
     font-size: 16px;
     cursor: pointer;
-    border-radius: 40px;
+    border-radius: 12px;
 
 }
 
